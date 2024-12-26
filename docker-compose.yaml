@@ -31,8 +31,8 @@ services:
   postgres:
     image: postgres:latest
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: useradmin
+      POSTGRES_USER: <YOUR_USERNAME>
+      POSTGRES_PASSWORD: <YOUR_PASSWORD>
     ports:
       - 5432:5432
     volumes:

@@ -32,15 +32,15 @@ This application demonstrates an optimized approach to handle a high volume of c
 ### Prerequisites
 
 - Docker and Docker Compose installed on your machine.
-- Java JDK 11 or higher.
+- Java JDK 21 or higher.
 - Python 3.8 or higher.
 - Git installed for Git Bash.
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yuvraj0028/high-performance-app.git
-cd high-performance-app
+git clone https://github.com/yuvraj0028/kafka-spring-implementation.git
+cd kafka-spring-implementation
 ```
 
 ### Configuration
