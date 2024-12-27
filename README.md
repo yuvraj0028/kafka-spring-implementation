@@ -87,7 +87,7 @@ Use the `application_run.sh` script to make sure Docker images are up and start 
 ```
 
 ## Performance Improvements
-- **Before Kafka Integration**: ~105 seconds to make 180,000,000 write calls to PostgreSQL (2000 calls per second).
+- **Before Kafka Integration**: ~105 seconds to make 180,000,000 write calls to PostgreSQL (~3000 calls per second).
 - **After Kafka Integration**: ~55 seconds for the same number of requests.
 - **Speed Increase**: Achieved a 90.91% speedup!
 
